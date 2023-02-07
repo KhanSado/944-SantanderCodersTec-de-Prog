@@ -9,8 +9,8 @@ class Exemplo {
 }
 
 fun main(){
-    Exemplo().deDentroDaClasse()
-    Exemplo().externaFuncao()
+//    Exemplo().deDentroDaClasse()
+//    Exemplo().externaFuncao()
 
     println("------------------")
 
